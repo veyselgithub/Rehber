@@ -1,0 +1,35 @@
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/bin/Debug/rehber.exe.config
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/bin/Debug/rehber.exe
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/bin/Debug/rehber.pdb
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.csprojResolveAssemblyReference.cache
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.Form1.resources
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.Form2.resources
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.Properties.Resources.resources
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.csproj.GenerateResource.Cache
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.csproj.CoreCompileInputs.cache
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.exe
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.pdb
+C:/Users/Sau/Desktop/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.Form3.resources
+C:/rehber/rehber/bin/Debug/rehber.exe.config
+C:/rehber/rehber/bin/Debug/rehber.exe
+C:/rehber/rehber/bin/Debug/rehber.pdb
+C:/rehber/rehber/obj/Debug/rehber.csprojResolveAssemblyReference.cache
+C:/rehber/rehber/obj/Debug/rehber.Form1.resources
+C:/rehber/rehber/obj/Debug/rehber.Form2.resources
+C:/rehber/rehber/obj/Debug/rehber.Form3.resources
+C:/rehber/rehber/obj/Debug/rehber.Properties.Resources.resources
+C:/rehber/rehber/obj/Debug/rehber.csproj.GenerateResource.Cache
+C:/rehber/rehber/obj/Debug/rehber.csproj.CoreCompileInputs.cache
+C:/rehber/rehber/obj/Debug/rehber.exe
+C:/rehber/rehber/obj/Debug/rehber.pdb
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/bin/Debug/rehber.exe.config
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/bin/Debug/rehber.exe
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/bin/Debug/rehber.pdb
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.csprojAssemblyReference.cache
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.Form1.resources
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.Form2.resources
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.Form3.resources
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.Properties.Resources.resources
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.csproj.GenerateResource.cache
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.exe
+/Users/veyseldogan/Desktop/Desktop - Veysel’s MacBook /Okul/1.Sınıf/2.Dönem/2.donem/Ödevler/rehber/rehber/obj/Debug/rehber.pdb
